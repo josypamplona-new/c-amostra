@@ -1,0 +1,15 @@
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/bin/Debug/net6.0/HelloJosy
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/bin/Debug/net6.0/HelloJosy.deps.json
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/bin/Debug/net6.0/HelloJosy.runtimeconfig.json
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/bin/Debug/net6.0/HelloJosy.dll
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/bin/Debug/net6.0/HelloJosy.pdb
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/obj/Debug/net6.0/HelloJosy.csproj.AssemblyReference.cache
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/obj/Debug/net6.0/HelloJosy.GeneratedMSBuildEditorConfig.editorconfig
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/obj/Debug/net6.0/HelloJosy.AssemblyInfoInputs.cache
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/obj/Debug/net6.0/HelloJosy.AssemblyInfo.cs
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/obj/Debug/net6.0/HelloJosy.csproj.CoreCompileInputs.cache
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/obj/Debug/net6.0/HelloJosy.dll
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/obj/Debug/net6.0/refint/HelloJosy.dll
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/obj/Debug/net6.0/HelloJosy.pdb
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/obj/Debug/net6.0/HelloJosy.genruntimeconfig.cache
+/home/josy/Desktop/proprios/c-amostra/HelloJosy/obj/Debug/net6.0/ref/HelloJosy.dll
